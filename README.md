@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Oforji</h1>
-<h3 align="center">Quant Trader • ML Engineer • Cloud Architect</h3>
+<h3 align="center">Quant Trader • ML Engineer • Blockchain Developer</h3>
 
 <p align="center">
   <a href="mailto:danieloforji@berkeley.edu"><img src="https://img.shields.io/badge/email-danieloforji@berkeley.edu-red?style=for-the-badge&logo=gmail" /></a>
